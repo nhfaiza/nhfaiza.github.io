@@ -51,7 +51,7 @@ body {
 
 .main {
     min-height: 100vh;
-    background: url('testgrat/assets/background.jpg') no-repeat;
+    background: url('assets/background.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     pointer-events: auto;
